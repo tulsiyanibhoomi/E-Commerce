@@ -54,11 +54,7 @@ This is a full-stack E-commerce application built using the MERN (MongoDB, Expre
 ### Steps
 1. Clone the repository:
     ```bash
-<<<<<<< HEAD
-    git clone https://github.com/bhoomi1309/E-Commerce.git
-=======
-    git clone https://github.com/your-username/E-Commerce.git
->>>>>>> b397825 (Commit)
+    git clone https://github.com/tulsiyanibhoomi/E-Commerce.git
     cd E-Commerce
 2. Install dependencies for the backend:
     ```bash
